@@ -11,7 +11,7 @@
 <meta property="og:url" content="http://yoursite.com/2017/01/18/How to make GitHub Page/index.html">
 <meta property="og:site_name" content="Yuchao's GitHub Page">
 <meta property="og:description" content="I first made my GitHub page on 2016-7-24, inspired by Xiaolai Li. In the past 6 months, I have learned a lot and realized how a visual impressive is important, not only for girls.  So I would like to">
-<meta property="og:updated_time" content="2017-01-19T02:45:16.000Z">
+<meta property="og:updated_time" content="2017-02-12T22:06:36.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="How to make GitHub Page">
 <meta name="twitter:description" content="I first made my GitHub page on 2016-7-24, inspired by Xiaolai Li. In the past 6 months, I have learned a lot and realized how a visual impressive is important, not only for girls.  So I would like to">
@@ -56,9 +56,9 @@
       </nav>
       <nav id="sub-nav">
         
-          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="Flux RSS"></a>
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
         
-        <a id="nav-search-btn" class="nav-icon" title="Rechercher"></a>
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
       </nav>
       <div id="search-form-wrap">
         <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://yoursite.com"></form>
@@ -114,22 +114,25 @@
 </li>
 </ol>
 <h2 id="Routine-phase"><a href="#Routine-phase" class="headerlink" title="Routine phase"></a>Routine phase</h2><ol>
-<li><p><code>hexo new &quot;file name&quot;</code> produce a file name.md with some default attributes like title, date and tag. Title is the real title for your post.</p>
-</li>
-<li><p><code>hexo server</code> display any changes from md files immediately in local  server: <a href="http://localhost:4000/" target="_blank" rel="external">http://localhost:4000/</a></p>
-</li>
-<li><p><code>hexo generate</code> will generate html files and styles in <strong>public</strong> folder.Only this folder will be pushed to GitHub for Github page, which is done by <code>hexo deploy</code> , and is actually combine the 3 git commands: <code>git add, git commit, git push</code>.  You can even combine generate and deploy together by <code>hexo generate -d</code>. cheer!</p>
-</li>
+<li>Open terminal, cd jychstar.github.io: <code>hexo new &quot;file name&quot;</code> . This produces a file name.md with some must-have attributes like title, date and tag. Title is the real title for your post.</li>
+<li>Go to folder, jychstar.github.io-&gt; source-&gt;_posts, find the new file and begin to write your genuine ideas.</li>
+<li>Publish your ideas in one line <code>hexo generate -d</code>. </li>
+<li>If you want to see what it looks like before it’s online:</li>
 </ol>
-<h2 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h2><ul>
-<li>revise <code>_config.yml</code> to change the site name, author, etc.</li>
-<li>delete previous md files will cause fatal error. I don’t know why. But revise the md file is totally fine.</li>
+<ul>
+<li><code>hexo generate</code> will generate html files and styles in <strong>public</strong> folder.</li>
+<li><code>hexo server</code> start <strong>local server</strong>: <a href="http://localhost:4000/" target="_blank" rel="external">http://localhost:4000/</a> as you wish</li>
+<li><p><code>hexo deploy</code> push <strong>public</strong> folder to GitHub.What it is actually combine are 3 git commands: <code>git add, git commit, git push</code>.  </p>
+<h2 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h2></li>
+<li><p>revise <code>_config.yml</code> to change the site name, author, etc.</p>
+</li>
+<li>delete previous md files will cause fatal error. I don’t know why. But revise the content in md file is totally fine.</li>
 </ul>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2017/01/18/How to make GitHub Page/" data-id="ciy3retsb0000y4vdh80jy0a5" class="article-share-link">Partager</a>
+      <a data-url="http://yoursite.com/2017/01/18/How to make GitHub Page/" data-id="ciz37ii6t0000trvdfgbhuzi6" class="article-share-link">Share</a>
       
       
     </footer>
@@ -140,7 +143,7 @@
   
   
     <a href="/2016/07/26/hello-world/" id="article-nav-older" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Ancien</strong>
+      <strong class="article-nav-caption">Older</strong>
       <div class="article-nav-title">Hello World</div>
     </a>
   
@@ -173,7 +176,7 @@
   
     
   <div class="widget-wrap">
-    <h3 class="widget-title">Articles récents</h3>
+    <h3 class="widget-title">Recent Posts</h3>
     <div class="widget">
       <ul>
         
@@ -198,7 +201,7 @@
   <div class="outer">
     <div id="footer-info" class="inner">
       &copy; 2017 Yuchao Jiang<br>
-      Propulsé by <a href="http://hexo.io/" target="_blank">Hexo</a>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
 </footer>
