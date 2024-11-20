@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 中国的民主之路在何方?
 date: 2017-03-24 17:02:55
 tags:
