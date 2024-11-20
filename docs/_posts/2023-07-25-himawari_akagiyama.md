@@ -2,19 +2,14 @@
 
 https://makumemo.com/facility/12900/
 
-![IMG_0707 Large](image/0725/IMG_0707 Large.jpeg)
+![IMG_0707 Large](../image/20230725/IMG_0707 Large.jpeg)
 
-![IMG_0701 Large](image/0725/IMG_0701 Large.jpeg)
-
-
-
-<video src="image/0725/IMG_0709.MOV"></video>
-
+![IMG_0701 Large](../image/20230725/IMG_0701 Large.jpeg)
 
 
 迷宮（めいきゅう）maze
 
-![IMG_0550 Large](image/0725/IMG_0550 Large.jpeg)
+![IMG_0550 Large](../image/20230725/IMG_0550 Large.jpeg)
 
 赤城山
 
@@ -22,19 +17,19 @@ https://makumemo.com/facility/12900/
 
 大沼，
 
-![IMG_0794 Large](image/0725/IMG_0794 Large.jpeg)
+![IMG_0794 Large](../image/20230725/IMG_0794 Large.jpeg)
 
-![IMG_0839 Large](image/0725/IMG_0839 Large.jpeg)
+![IMG_0839 Large](../image/20230725/IMG_0839 Large.jpeg)
 
 覚満渕（かくまんぶち）　湿原（しつげん）　尾瀬みたいの　木道（もくどう）
 
 https://rurubu.jp/andmore/spot/80007505
 
-![IMG_0849 Large](image/0725/IMG_0849 Large.jpeg)
+![IMG_0849 Large](../image/20230725/IMG_0849 Large.jpeg)
 
 前橋公園の臨江閣（りんこうかく）
 
-![IMG_0869 Large](image/0725/IMG_0869 Large.jpeg)
+![IMG_0869 Large](../image/20230725/IMG_0869 Large.jpeg)
 
 
 
